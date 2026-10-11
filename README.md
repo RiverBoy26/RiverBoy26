@@ -54,7 +54,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/RiverBoy26/RiverBoy26/main/metrics.plugin.isocalendar.svg?v=2"
        alt="Календарь активности GitHub"
-       width="100%" />
+       width="75%" />
 </p>
 
 
