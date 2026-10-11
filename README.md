@@ -1,6 +1,6 @@
 <h1 align="center">Привет! Меня зовут Артём Ледовских
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Бэкенд-разработчик (Java)</h3>
+<h3 align="center">Бэкенд-разработчик (Java) • Санкт-Петербург</h3>
 
 ## Стек технологий
 <p align="center">
@@ -33,12 +33,6 @@
   </a>
 </p>
 
-## Контакты
-
- </a>
-  <a href="mailto:ledartem@bk.ru"><b>Почта: ledartem@bk.ru</b></a>
-</p>
-
 ## Обо мне
 
 - ☕ Разрабатываю Backend-приложения на Java с использованием Spring Boot
@@ -46,7 +40,7 @@
 - 🗄️ Работаю с PostgreSQL и MySQL, использую Hibernate и Liquibase
 - 💼 Цель: стажировка / Junior Java Backend Developer
 
-## Сейчас изучаю
+## Навыки работы
 
 - Java Core: Collections, Stream API, многопоточность
 - Spring Framework: Spring Boot, Spring Data JPA, Spring Security
@@ -64,14 +58,5 @@
     width="100%"
   />
 </p>
-
-**Статистика языков в репозиториях:**
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RiverBoy26&theme=solarized_dark)
-
-**Статистика профиля:**
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RiverBoy26&theme=solarized_dark)
-
 
 
