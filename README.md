@@ -52,7 +52,7 @@
 <h3><b>📅 История коммитов</b></h3>
 
 <p align="center">
-  <img src="./metrics.plugin.isocalendar.svg" alt="Календарь активности GitHub" width="100%" />
+  src="https://raw.githubusercontent.com/RiverBoy26/RiverBoy26/main/metrics.plugin.isocalendar.svg?v=2"
 </p>
 
 
