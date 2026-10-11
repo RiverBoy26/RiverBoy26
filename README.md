@@ -52,11 +52,7 @@
 <h3><b>📅 История коммитов</b></h3>
 
 <p align="center">
-  <img
-    src="./metrics.plugin.isocalendar.svg"
-    alt="Isometric Commit Calendar"
-    width="100%"
-  />
+  <img src="./metrics.plugin.isocalendar.svg" alt="Календарь активности GitHub" width="100%" />
 </p>
 
 
