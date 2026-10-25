@@ -35,7 +35,7 @@
 - ☕ Разрабатываю Backend-приложения на Java с использованием Spring Boot
 - ⚙️ Создаю REST API, реализую бизнес-логику и взаимодействие с базами данных
 - 🗄️ Работаю с PostgreSQL и MySQL, использую Hibernate и Liquibase
-- 💼 Цель: стажировка / Junior Java Backend Developer
+- 💼 Цель: стажировка / Middle Java Backend Developer
 
 ## Навыки работы
 
