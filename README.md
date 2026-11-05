@@ -46,12 +46,4 @@
 - Docker: контейнеризация и развёртывание приложений
 - Тестирование: JUnit 5, Mockito и интеграционные тесты
 
-<h3><b>📅 История коммитов</b></h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RiverBoy26/RiverBoy26/main/metrics.plugin.isocalendar.svg?v=2"
-       alt="Календарь активности GitHub"
-       width="75%" />
-</p>
-
 
